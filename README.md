@@ -1,2 +1,2 @@
 # veuTeste
-repoitorio para estudo do vue.js
+Repositório para estudo do vue.js
